@@ -4,11 +4,9 @@
 
 AtliQ is a rapidly growing hardware company that sells a wide range of products across multiple countries. Their sales channels include retail outlets, direct-to-customer platforms, and distributor networks—both online and offline. To support their growth and enable data-driven decision-making, AtliQ has initiated the development of a comprehensive data analytics solution.
 
-Live Dashboard – Click to View
+Live Dashboard – [Click to View](https://app.powerbi.com/links/5Bn1-JhyfB?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=c576ca5e-4835-4ae3-8597-b87d4b2a04f1)
 
-Portfolio – Click to View
-
-Presentation PPT – Click to View
+Presentation PPT – [Click to View](https://www.linkedin.com/posts/raja-shekarg_bi360-project-presentation-activity-7274649532846477313-5l6J?utm_source=share&utm_medium=member_desktop&rcm=ACoAADON-YgB0EgIZ2-cObDPZEcM5V_FVS6sis4)
 
 **Technology Stack**
 
